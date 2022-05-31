@@ -3,7 +3,7 @@
 - [images](/images) - папка с вспомогательными изображениями
 - [project_data](/project_data) - папка, в которую необходимо загрузить данные датасета (подробнее в материале папки)
 - [tex](/tex) - папка с tex-файлами для формирования отчёта
-- [Презентация к зашите](eeg_analysis_presentation.pptx)
+- [Презентация к зашите](EEG_Analysis_Presentation.pptx)
 - [Jupyter Notebook проекта](MyProject.ipynb)
 - [Промежуточная версия отчёта к КТ1](project_petelin_17_02.pdf)
 - [Итоговая версия отчёта](project_fixed_s.pdf)
